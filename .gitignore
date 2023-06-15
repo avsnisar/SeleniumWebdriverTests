@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+.classpath
+.project
+testExamples/.settings/
+testExamples/bin/
+testExamples/docs/
+testExamples/.classpath
+testExamples/.project
